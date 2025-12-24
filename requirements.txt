@@ -1,0 +1,9 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-sarvam
+python-dotenv
+pandas
+langgraph
+livekit-plugins-groq
